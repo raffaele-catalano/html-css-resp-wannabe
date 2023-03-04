@@ -129,7 +129,7 @@ img {
  ************************************************/
 
 /*RESPONSIVE SOLUTION FOR TABLET SCREEN*/
-@media (max-width: 768px) {
+@media (max-width: 767px) {
 
     .container {
     max-width: 100%;
@@ -137,7 +137,7 @@ img {
 }
 
 /*RESPONSIVE SOLUTION FOR SMARTPHONE SCREEN*/
-@media (max-width: 480px)  {
+@media (max-width: 479px)  {
     
     /*HEADER*/
     .text-center {

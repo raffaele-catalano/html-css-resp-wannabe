@@ -129,7 +129,7 @@ img {
  ************************************************/
 
 /*RESPONSIVE SOLUTION FOR TABLET SCREEN*/
-@media (max-width: 767px) {
+@media (max-width: 768px) {
 
     .container {
     max-width: 100%;
@@ -137,7 +137,7 @@ img {
 }
 
 /*RESPONSIVE SOLUTION FOR SMARTPHONE SCREEN*/
-@media (max-width: 479px)  {
+@media (max-width: 480px)  {
     
     /*HEADER*/
     .text-center {
@@ -211,7 +211,5 @@ img {
     .why-us .col-right ul li h3 {
         margin-bottom: 0.5rem;
     }
-
-
 
 }
